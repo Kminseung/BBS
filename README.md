@@ -1,5 +1,5 @@
 # BBS
-Bulletin Board System - JSP Programming
+Bulletin Board System - JSP Programming(Java, JSP, MySQL 5.7.18, Apache Tomcat 8.5)
 
 BBS란? 일반적으로 대학의 게시판에 컴퓨터 네트워크를 적용한 시스템이다. 보통 특정 전자 게시판 소프트웨어를 가동하는 컴퓨터 시스템을 말한다.
 
@@ -12,3 +12,6 @@ DAO(Data Access Object) :
 
 단일 책임 원칙 :
 객체지향 프로그래밍에서 모든 컨텍스트(클래스, 기능, 변수 등)은 하나의 책임만 가져야 한다는 것이며, 이는 컨텍스트에 의해 완전히 캡슐화 되어야 한다는 것이다. 그리고 모든 서비스들은 해당 책임에 맞춰 조정되어야 한다.
+
+MySQL :
+오라클에서 관리 및 지원하며 세계에서 가장 많이 쓰이는 오픈 소스의 관계형 데이터베이스 관리 시스템(RDBMS)이다.
