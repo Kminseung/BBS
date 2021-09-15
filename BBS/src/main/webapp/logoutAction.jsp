@@ -7,9 +7,11 @@
 <title>JSP 게시판 웹 사이트</title>
 </head>
 <body>
+	<%
+		session.invalidate();
+	%>
 	<script>
-		<!-- When accesses, move to login page(login.jsp) -->
-		location.href = "main.jsp";
+		location.href = 'main.jsp';
 	</script>
 </body>
 </html>
